@@ -10,4 +10,4 @@ Tais estudos serão aplicados num conjunto de dados de jogos da Steam, que foi o
 
 O objetivo final do trabalho é investigar se há relação entre a descrição de um jogo e o(s) gênero(s) ao(s) qual(quais) ele pertence.
 
-O trabalho pode ser visualizado de forma detalhada no arquivo T1_CD.ipynb
+O trabalho pode ser visualizado de forma detalhada no [arquivo](T1_CD.ipynb)
